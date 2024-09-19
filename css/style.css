@@ -13,5 +13,9 @@ a {
 .header{
     background-color: #f1f1f1;
     padding: 0.8rem 20px;
+}
+
+.header01{
     align-items: center;
+    
 }
