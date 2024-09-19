@@ -13,9 +13,9 @@ a {
 .header{
     background-color: #f1f1f1;
     padding: 0.8rem 20px;
+    text-align: center;
 }
 
 .header01{
-    justify-content: center;
-
+   padding: 10px;
 }
