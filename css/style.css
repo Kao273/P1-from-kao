@@ -180,6 +180,14 @@ a {
     display: flex;
 }
 
+.container-03 {
+    margin-top: 5%;
+    margin-bottom: 2%;
+    margin-left: 31%;
+    margin-right: 35%;
+    display: flex;
+}
+
 /**
 .border-01 {
     width: 48%;
