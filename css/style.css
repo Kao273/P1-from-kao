@@ -27,7 +27,8 @@ a {
 
 .header01 {
     margin-top: 10px;
-    margin-right: 68%;
+    margin-right: 54%;
+    margin-left: 14%;
 }
 
 .header a:hover {
@@ -89,7 +90,6 @@ a {
 
 /******************** slider ********************/
 .container{
-    margin-left: 100px;
     margin: 0;
     margin-top: 3%;
     padding: 0;
