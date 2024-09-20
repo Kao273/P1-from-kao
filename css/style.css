@@ -162,3 +162,36 @@ a {
     margin-left: -40%;
 }
 /******************** slider ********************/
+/******************** content ********************/
+.container-01 {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 14.5%;
+    margin-right: 14.5%;
+    display: flex;
+}
+
+.container-02 {
+    margin-top: 5%;
+    margin-bottom: 2%;
+    margin-left: 14.5%;
+    margin-right: 14.5%;
+    display: flex;
+}
+
+/**
+.border-01 {
+    width: 48%;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 3%;
+}
+
+.border-02 {
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 3%;
+}
+**/
+/******************** content ********************/
