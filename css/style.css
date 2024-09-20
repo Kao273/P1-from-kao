@@ -89,6 +89,7 @@ a {
 
 /******************** slider ********************/
 .container{
+    margin-left: 100px;
     margin: 0;
     margin-top: 3%;
     padding: 0;
@@ -195,3 +196,33 @@ a {
 }
 **/
 /******************** content ********************/
+/******************** footer ********************/
+
+footer {
+    height: 120px;
+    text-align: center;
+    background-color: black;
+    padding: 35px;
+}
+
+footer h2 {
+    color: rgb(71, 71, 71);
+}
+
+footer a {
+    margin-top: 10px;
+    color: rgb(71, 71, 71);
+    margin-right: 10px;
+}
+
+footer p {
+    margin-top: 10px;
+    color: rgb(71, 71, 71);
+}
+
+footer a:hover {
+    color: rgb(184, 170, 170);
+    transition: 1s;
+}
+
+/******************** footer ********************/
